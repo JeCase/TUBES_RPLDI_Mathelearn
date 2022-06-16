@@ -108,7 +108,7 @@
 	<!-- Map Section -->
 	<div class="map-section">
 		<div id="myMap">
-		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.3048828203364!2d107.6281415148729!3d-6.9733111702195965!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e9adf177bf8d%3A0x437398556f9fa03!2sTelkom%20University!5e0!3m2!1sen!2sid!4v1655038968916!5m2!1sen!2sid" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.3048828203364!2d107.6281415148729!3d-6.9733111702195965!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e9adf177bf8d%3A0x437398556f9fa03!2sTelkom%20University!5e0!3m2!1sen!2sid!4v1655038968916!5m2!1sen!2sid" width="100%" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" text-align:center></iframe>
 		</div>
 	</div>
 	<!--/ End Map Section -->
