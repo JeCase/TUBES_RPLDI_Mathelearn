@@ -25,13 +25,13 @@
         <div class="sidebar-heading">
             Shop
         </div>
-    <!--Orders -->
+    {{-- <!--Orders -->
     <li class="nav-item">
         <a class="nav-link" href="{{route('user.order.index')}}">
             <i class="fas fa-hammer fa-chart-area"></i>
             <span>Orders</span>
         </a>
-    </li>
+    </li> --}}
 
     <!-- Reviews -->
     <li class="nav-item">
